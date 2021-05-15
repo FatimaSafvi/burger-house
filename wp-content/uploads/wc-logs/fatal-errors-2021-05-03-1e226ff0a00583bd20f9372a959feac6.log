@@ -1,0 +1,4 @@
+2021-05-03T08:15:23+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in C:\xampp\htdocs\burger-house\wp-content\themes\divi-child\archive-review.php on line 20
+
+2021-05-03T08:15:49+00:00 CRITICAL syntax error, unexpected '=', expecting ')' in C:\xampp\htdocs\burger-house\wp-content\themes\divi-child\archive-review.php on line 20
+
